@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Cat">
+        <item>Adventure</item>
+        <item>Drama</item>
+        <item>Comedy</item>
+        <item>Sports</item>
+    </string-array>
+    <integer-array name="Cat_Img">
+        <item>@drawable/adventure</item>
+        <item>@drawable/comedy</item>
+        <item>@drawable/drama</item>
+        <item>@drawable/sports</item>
+    </integer-array>
+
+    <string-array name="Adventure">
+        <item>Arrow</item>
+        <item>Titans</item>
+    </string-array>
+    <integer-array name="Adventure_Img">
+        <item>@drawable/adventure</item>
+        <item>@drawable/adventure</item>
+    </integer-array>
+
+    <string-array name="Comedy">
+        <item>The Good Place</item>
+        <item>How I Met Your Mother</item>
+    </string-array>
+    <integer-array name="Comedy_Img">
+        <item>@drawable/comedy</item>
+        <item>@drawable/comedy</item>
+    </integer-array>
+
+    <string-array name="Sports">
+        <item>La Liga</item>
+        <item>Premier League</item>
+    </string-array>
+    <integer-array name="Sports_Img">
+        <item>@drawable/laliga</item>
+        <item>@drawable/premier</item>
+    </integer-array>
+
+    <string-array name="Drama">
+        <item>You</item>
+        <item>Black Mirror</item>
+    </string-array>
+    <integer-array name="Drama_Img">
+        <item>@drawable/drama1</item>
+        <item>@drawable/drama2</item>
+    </integer-array>
+
+
+    <string-array name="Sports1">
+        <item>Real Madrid vs Valencia</item>
+        <item>Barcelona vs Espanyol</item>
+    </string-array>
+    <string-array name="Sports2">
+        <item>Liverpool vs Watford</item>
+        <item>Chelsea vs Manchester City</item>
+    </string-array>
+    <string name="Sports1_Info"> The Campeonato Nacional de Liga de Primera División is the mens top professional football division of the Spanish football league system. </string>
+    <string name="Sports2_Info"> The Premier League, often referred to as the English Premier League, is the top level of the English football league system.</string>
+
+    <string-array name="Drama1">
+        <item>You Season 1</item>
+        <item>You Season 2</item>
+    </string-array>
+    <string-array name="Drama2">
+        <item>Black Mirror Season 1</item>
+        <item>Black Mirror Season 2</item>
+    </string-array>
+    <string name="Drama2_Info"> An anthology series that revolves around a group of peoples personal lives and how technology manipulates their behaviour.</string>
+    <string name="Drama1_Info"> Charming yet awkward crush becomes something even more sinister when the writer becomes the managers obsession.</string>
+
+    <string-array name="Comedy1">
+        <item>The Good Place Season 1</item>
+        <item>The Good Place Season 2</item>
+
+    </string-array>
+    <string-array name="Comedy2">
+        <item>How I Met Your Mother Season 1</item>
+        <item>How I Met Your Mother Season 2</item>
+    </string-array>
+    <string name="Comedy2_Info"> Ted Mosby, an architect, recounts to his children the events that led him to meet their mother.</string>
+    <string name="Comedy1_Info"> Eleanor, a deceased saleswoman who lived a morally corrupt life, finds herself in a heaven-like afterlife in a case of mistaken identity.</string>
+
+    <string-array name="Adventure1">
+        <item>Arrow Season 1</item>
+        <item>Arrow Season 2</item>
+    </string-array>
+    <string-array name="Adventure2">
+        <item>Titans Season 1</item>
+        <item>Titans Season 2</item>
+    </string-array>
+    <string name="Adventure2_Info"> This gritty take on the "Teen Titans" franchise follows young heroes from across the DC Universe as they come of age and find where they belong. </string>
+    <string name="Adventure1_Info"> Oliver Queen returns to his city to take on the vigilante persona of Arrow to fight crime and corruption.</string>
+
+
+
+
+</resources>
